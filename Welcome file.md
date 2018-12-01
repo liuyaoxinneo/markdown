@@ -132,8 +132,7 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 
-And this will produce a flow chart:
-
+And this will produce a flow chart
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
@@ -141,6 +140,10 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM0NjQ0NjldfQ==
+eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgZW1vamk6XG
+4gICAgIyBFbmFibGUgZW1vamkgc2hvcnRjdXRzIGxpa2UgOikg
+Oi0oXG4gICAgc2hvcnRjdXRzOiB0cnVlXG4iLCJoaXN0b3J5Ij
+pbLTI0MDEyODg0NCwtMTc0MzQ2NDQ2OV19
 -->
